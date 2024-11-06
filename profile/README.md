@@ -2,10 +2,10 @@
 
 Equipe formada para realizar os Projetos de Aprendizagem Integrada (APIs) na FATEC Profº Jessen Vidal (São José dos Campos, São Paulo).
 
-| Semestre | Nome do Projeto  | Cliente           | Descrição                                                                                              | Fonte             |
-|----------|-------------------|-------------------|-------------------------------------------------------------------------------------------------------|-------------------|
-| 1º SEM   | Smart-Farming     | Cliente interno   | Este projeto é um website para monitorar e armazenar dados da estufa inteligente, gerando gráficos e médias diárias de umidade, temperatura e volume de água. | [Smart-farming](#) |
-| 2º SEM   | Inv.Sort           | Cliente interno   | Aplicação de controle de estoque para gestão rápida e inteligente, que facilita a análise de tendências, cadastro de categorias e produtos, e controle de entrada e saída de forma prática e intuitiva. | [Inv.Sort](#)       |
+| Semestre | Nome do Projeto  | Cliente           | Descrição                                                                                              |
+|----------|-------------------|-------------------|-------------------------------------------------------------------------------------------------------|
+| 1º SEM   | [Smart-farming](#)     | Cliente interno   | Este projeto é um website para monitorar e armazenar dados da estufa inteligente, gerando gráficos e médias diárias de umidade, temperatura e volume de água. |
+| 2º SEM   | [Inv.Sort](#)           | Cliente interno   | Aplicação de controle de estoque para gestão rápida e inteligente, que facilita a análise de tendências, cadastro de categorias e produtos, e controle de entrada e saída de forma prática e intuitiva. |
 
 ## Membros 👥
 
