@@ -11,7 +11,7 @@ Equipe formada para realizar os Projetos de Aprendizagem Integrada (APIs) na FAT
 
 | Nome | GitHub | LinkedIn |
 |------|--------|----------|
-| João Góes | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](www.linkedin.com/in/joão-vítor-góes-b82b63302) |
+| João Góes | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](www.linkedin.com/in/joão-vítor-góes-b82b63302/) |
 | Pedro Prevides | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
 | Avya Alex | [GitHub](https://github.com/AvyaAquino) | [LinkedIn](https://www.linkedin.com/in/avya-candido-598b5228a/) |
 | Carlos Intrieri | [GitHub](https://github.com/carlosintrieri) | [LinkedIn](https://www.linkedin.com/in/carlosintrieri) |
