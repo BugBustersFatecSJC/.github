@@ -1,4 +1,4 @@
-# Equipe BugBusters 🪲
+# Equipe BugBusters 🐛
 
 Equipe formada para realizar os Projetos de Aprendizagem Integrada (APIs) na FATEC Profº Jessen Vidal (São José dos Campos, São Paulo).
 
